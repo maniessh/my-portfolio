@@ -1,0 +1,52 @@
+Hero / Landing
+Animated name reveal + role typewriter
+3D particle background (Three.js)
+Live GitHub contribution heatmap
+Scroll-triggered section reveals
+Custom cursor with magnetic effect
+Availability badge (open to work)
+About Me
+Timeline of education & experience
+Skill radar / progress chart
+Downloadable resume (PDF)
+Personality facts carousel
+Photo with parallax tilt effect
+Current learning / reading list
+Projects (Gallery)
+Filter by tech, category, type
+Live demo + GitHub link on each card
+Project detail modal / page
+YouTube/Loom embed for demos
+Star count from GitHub API
+Featured / pinned project spotlight
+Skills & Tech Stack
+Grouped by category (FE, BE, DS, Cloud)
+Proficiency level per skill
+Animated icon cloud / 3D globe
+Hoverable tech card with years
+Linked to projects using that skill
+Blog / Articles
+MDX-powered posts with syntax highlighting
+Table of contents sidebar
+Reading time estimate
+Tags, search, RSS feed
+View count + like reaction
+Contact
+Form with validation (name/email/msg)
+Social links (GitHub, LinkedIn, X)
+Calendly / cal.com booking embed
+Email protected from scrapers
+Response time expectation badge
+Achievements / Awards
+Hackathon wins, certifications
+Animated counter for stats
+Testimonials / recommendations
+LeetCode / Codeforces rating widget
+Open Source Contributions
+Merged PRs with links
+Contribution streak graph
+Top repos contributed to
+Impact stats (stars, forks)
+Must-have
+Advanced
+Wow factor
