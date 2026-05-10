@@ -50,3 +50,55 @@ Impact stats (stars, forks)
 Must-have
 Advanced
 Wow factor
+
+Motion & Animation System
+Page transition (GSAP / Framer)
+Scroll-triggered reveals
+Staggered list entrance
+Magnetic hover on buttons
+Smooth scroll (Lenis)
+Parallax layers
+Reduced motion respect
+Spring physics cursor
+Layout Differentiation
+Bento grid project cards
+Masonry blog layout
+Horizontal scroll section
+Full-bleed hero
+Sticky nav with blur
+Split-screen about
+Diagonal section dividers
+Floating dock (macOS-like)
+Accessibility (WCAG 2.1 AA)
+Skip to main content
+ARIA labels everywhere
+Focus visible states
+Color contrast 4.5:1+
+Keyboard navigation
+Screen reader tested
+Alt text on all images
+No motion if preferred
+Responsive Behavior
+Mobile-first breakpoints
+Touch-friendly tap targets
+Bottom nav on mobile
+Hamburger → drawer menu
+Fluid typography (clamp)
+Landscape orientation
+Tablet grid adjustments
+Visual Identity System
+Custom font pairing
+Cohesive color palette
+Design token CSS vars
+Custom 404 page
+Branded OG image
+Favicon + apple touch icon
+Loading skeleton screens
+Noise / grain texture option
+SEO & Discoverability
+Structured data (JSON-LD)
+Open Graph + Twitter Card
+Sitemap.xml + robots.txt
+Canonical URLs
+Meta tags on every page
+i18n-ready (EN default)
