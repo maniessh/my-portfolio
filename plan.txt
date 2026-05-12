@@ -37,3 +37,36 @@ Playwright E2E tests
 Security headers
 Custom domain + SSL
 Submit to sitemaps, share on LinkedIn
+
+
+
+Interactive Terminal Easter Egg
+Wow
+A hidden CLI accessible via keyboard shortcut (e.g. Ctrl+K or typing "sudo"). Users can run commands like whoami, ls projects, cat resume.txt. Instantly memorable.
+Smart Theme System
+Must
+Dark / light / system-auto toggle. Theme persists across sessions via localStorage. Smooth CSS variable transition (no flash). Optional: 3rd accent color theme.
+Global Search (⌘K)
+Advanced
+Command palette to instantly navigate anywhere on the site — projects, blog posts, sections. Fuzzy search. Keyboard navigable. Built with Fuse.js or Algolia.
+AI Chatbot "Ask Me" Widget
+Wow
+RAG-powered chat trained on your resume, projects, and blog. Visitors can ask questions like "What tech does Alex know?" or "Show me ML projects." Uses OpenAI + vector DB.
+Live GitHub Stats
+Advanced
+Real-time pull of commits, stars, repos, streak via GitHub API + GitHub Readme Stats. Contribution heatmap embedded on hero. Caching with SWR to avoid rate limits.
+Email Form with Backend
+Must
+Serverless function (Vercel/Netlify Edge) sends email via Resend or Nodemailer. Honeypot + rate limiting against spam. Toast notification on send success/failure.
+Analytics Dashboard
+Advanced
+Privacy-first analytics with Umami or Plausible (self-hosted). Show visitor counts, top pages, referrers in a beautiful admin view. No cookies banner needed.
+PWA + Offline Support
+Advanced
+Service Worker caches assets. Manifest.json for installability. Works offline. Push notification opt-in for new blog posts. Lighthouse PWA score: 100.
+Interactive Code Playground
+Wow
+Embed a CodeSandbox or StackBlitz instance inside project detail pages. Visitors can fork and run your code without leaving the site.
+Visitor Presence (Real-time)
+Wow
+Live dot showing how many people are on the site right now using WebSockets or Supabase realtime. Small, non-intrusive social proof in the nav.
