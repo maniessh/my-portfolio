@@ -5,32 +5,43 @@ Layout + routing + SEO baseline
 Dark mode + theme toggle
 Deployment on Vercel
 2
+
+
 Core Pages (Week 3–4)
 Hero section + animated name
 About with timeline
 Projects gallery with filter
 Skills section
 Contact form + API route
-3
+
+
+
+
 Advanced UI (Week 5–6)
 Three.js / Spline hero background
 GSAP scroll animations
 Custom cursor + magnetic hover
 Smooth scroll (Lenis)
 Page transitions
-4
+
+
+
 Blog + APIs (Week 7)
 MDX blog with Contentlayer
 GitHub API integration
 Command palette ⌘K
 Analytics (Umami)
-5
+
+
+
 Wow Features (Week 8)
 AI chatbot (RAG)
 Terminal easter egg
 Live visitor presence
 PWA + service worker
-6
+
+
+
 Polish + Launch (Week 9–10)
 Lighthouse audit to 100
 Playwright E2E tests
@@ -70,3 +81,14 @@ Embed a CodeSandbox or StackBlitz instance inside project detail pages. Visitors
 Visitor Presence (Real-time)
 Wow
 Live dot showing how many people are on the site right now using WebSockets or Supabase realtime. Small, non-intrusive social proof in the nav.
+
+
+Motion & Animation System
+Page transition (GSAP / Framer)
+Scroll-triggered reveals
+Staggered list entrance
+Magnetic hover on buttons
+Smooth scroll (Lenis)
+Parallax layers
+Reduced motion respect
+Spring physics cursor
