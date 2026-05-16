@@ -1,0 +1,13 @@
+.hero { flex-direction: column; }
+.projects-grid { grid-template-columns: 1fr; }
+
+/* tablet 768px+ */
+@media (min-width: 768px) {
+  .hero { flex-direction: row; }
+  .projects-grid { grid-template-columns: 1fr 1fr; }
+}
+
+/* desktop 1024px+ */
+@media (min-width: 1024px) {
+  .projects-grid { grid-template-columns: repeat(3, 1fr); }
+}
