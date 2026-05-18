@@ -30,3 +30,26 @@
 .navbar a:hover {
   text-decoration: underline;
 }
+.navbar a.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.projects-grid {
+  display: grid;
+  gap: 1rem;
+}
+.project-card {
+  background-color: #f4f4f4;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+.project-card h3 {
+  margin-top: 0;
+}
+nav a:hover,  
+nav a.active{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #007bff;
+}
+
